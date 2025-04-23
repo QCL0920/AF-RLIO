@@ -99,11 +99,6 @@ add_executable(AF_RLIO src/AF_RLIO.cpp include/ikd-Tree/ikd_Tree.cpp src/LIDAR_P
 target_link_libraries(AF_RLIO ${catkin_LIBRARIES} ${PCL_LIBRARIES} ${PYTHON_LIBRARIES} gtsam)
 target_include_directories(AF_RLIO PRIVATE ${PYTHON_INCLUDE_DIRS})
 
-add_executable(save src/save.cpp)
-target_link_libraries(save
-  ${catkin_LIBRARIES} 
-)
-
 add_executable(GPS_Processing src/GPS_Processing.cpp)
 target_link_libraries(GPS_Processing ${catkin_LIBRARIES} ${OpenCV_LIBS} ${GeographicLib_LIBRARIES} ) 
 
