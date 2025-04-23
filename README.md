@@ -8,8 +8,6 @@ AF-RLIO: Adaptive Fusion of Radar-LiDAR-Inertial Information for Robust Odometry
 
 Chenglong Qian, Yang Xu, Xiufang Shi, Jiming Chen, Liang Li
 
-
-
 ![image](https://github.com/QCL0920/AF-RLIO/blob/main/config/doc/image.png)
 
 ## Prerequisites
