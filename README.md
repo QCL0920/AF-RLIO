@@ -13,8 +13,9 @@ Chenglong Qian, Yang Xu, Xiufang Shi, Jiming Chen, [Liang Li](https://github.com
   <p align="center">
     <a href="https://youtu.be/yYzz15vRkDI"><img alt="AF-RLIO" src="figure/pipeline.png"></a>
   </p>
+</div>![image](/home/qcl/Downloads/image.png)
 
-</div>
+
 
 ## Prerequisites
 
