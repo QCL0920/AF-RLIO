@@ -22,7 +22,7 @@ Chenglong Qian, Yang Xu, Xiufang Shi, Jiming Chen, Liang Li
 - Eigen3
 - PCL
 - GTSAM
-- OpenCV4.2
+- OpenCV4
 
 ## Installation
 
