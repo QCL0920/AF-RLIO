@@ -6,11 +6,7 @@
 
 AF-RLIO: Adaptive Fusion of Radar-LiDAR-Inertial Information for Robust Odometry in Challenging Environments ([ICRA 2025](https://2025.ieee-icra.org/), accepted).  
 
-  <br />
-
 Chenglong Qian, Yang Xu, Xiufang Shi, Jiming Chen, Liang Li
-
-</div>
 
 ![image](https://github.com/QCL0920/AF-RLIO/blob/main/config/doc/image.png)
 
