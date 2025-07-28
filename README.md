@@ -1,8 +1,8 @@
 <div align="center">
     <h1>AF-RLIO</h1>
-    <a href=https://youtu.be/yYzz15vRkDI>YouTube</a>
-    <br />
+    <a href=https://youtu.be/yYzz15vRkDI>YouTube</a> | 
     <a href="https://arxiv.org/abs/2507.18317">arXiv</a>
+    <br />
     <br />
 
 AF-RLIO: Adaptive Fusion of Radar-LiDAR-Inertial Information for Robust Odometry in Challenging Environments ([ICRA 2025](https://2025.ieee-icra.org/), accepted).  
